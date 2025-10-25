@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#outerCard{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    border-color: aqua;
+    width: 70vw;
+    height: 70vh;
+}
